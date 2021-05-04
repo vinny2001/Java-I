@@ -1,0 +1,36 @@
+//CS-151 Quiz 2 PRACTICE
+
+ 
+
+import java.util.Scanner;
+
+ 
+
+public class Quiz2Practice{
+
+ 
+
+  public static void main(String[] args){
+
+   
+
+    String name;
+
+     
+
+    //Add your code below here following
+
+    //the version of the question that you get
+
+   
+
+ 
+
+         
+
+   
+
+  }//end of main
+
+}//end of class Quiz2Coding
+
